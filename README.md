@@ -32,9 +32,8 @@ In addition, it is impossible to remember them all, given the huge number of eve
 - [Microsoft Defender Antivirus](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/troubleshoot-microsoft-defender-antivirus?view=o365-worldwide#microsoft-defender-antivirus-event-ids) - Official resource.
 - [Microsoft Windows Security Auditing](https://docs.microsoft.com/en-us/windows/security/threat-protection/auditing/security-auditing-overview) - Official resource.
 - [Microsoft Windows Security Auditing by Randy Franklin Smith](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/) - Better known as _Ultimate Windows Security_.
-- [Notable Event IDs](https://github.com/TonyPhipps/SIEM/blob/master/Notable-Event-IDs.md) - Collection of common event IDs with descriptions.
+- [Notable Event IDs](https://github.com/TonyPhipps/SIEM/tree/master/Logging) - Collection of common event IDs with descriptions.
 - [Sysmon](https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon#events) - Official resource.
-- [Symantec Endpoint Protection 14.0.X](https://knowledge.broadcom.com/external/article/170359/endpoint-protection-140x-event-log-entri.html) - Official resource.
 - [Symantec Endpoint Protection Manager](https://knowledge.broadcom.com/external/article/157017/endpoint-protection-manager-event-log-en.html) - Official resource.
 - [Events and Errors - Windows Server 2008](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2008-r2-and-2008/cc754424(v=ws.10)) - Collection of event IDs from different windows event source. Applies to Windows Server 2008 and similar. (Official resource)
 - [Finding Forensic Goodness In Obscure Windows Event Logs](https://nasbench.medium.com/finding-forensic-goodness-in-obscure-windows-event-logs-60e978ea45a3) - List of lesser-known Event IDs.

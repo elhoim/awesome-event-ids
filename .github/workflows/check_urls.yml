@@ -15,3 +15,7 @@ jobs:
     - uses: urlstechie/urlchecker-action@master
       with:
         file_types: .md
+        retry_count: 3
+        timeout: 30
+        # These sites load in a browser but reject the checker's requests.
+        exclude_urls: https://www.pcwdld.com/windows-event-id-4776/,https://kb.eventtracker.com/
